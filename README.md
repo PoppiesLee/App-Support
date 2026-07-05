@@ -1,6 +1,6 @@
-# TripMeter App Support
+# App Support
 
-Thank you for using TripMeter! We are dedicated to providing you with the best experience.
+Thank you for using Our Apps! We are dedicated to providing you with the best experience.
 
 If you encounter any issues or have questions regarding:
 - **Usage**: How to use the app or specific features.
@@ -16,9 +16,9 @@ We aim to respond to all inquiries within 24 hours.
 
 ---
 
-# TripMeter 技术支持
+# 技术支持
 
-感谢您使用 TripMeter！我们致力于为您提供最优质的体验。
+感谢您使用我们的软件！我们致力于为您提供最优质的体验。
 
 如果您在使用过程中遇到任何问题，或有关于以下方面的疑问：
 - **使用帮助**：关于如何使用 App 或特定功能的说明。
